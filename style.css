@@ -58,7 +58,7 @@ body::-webkit-scrollbar {
 .w3-tag {
   background-color: #54c67a;
   color: black;
-  font-family: 'lemon', sans-serif;
+  font-family: 'lemon';
   margin-top: 25px;
   margin-bottom: 0px;
 }
