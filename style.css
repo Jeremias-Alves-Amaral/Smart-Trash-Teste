@@ -1,0 +1,89 @@
+body,
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url('./assets/Reciclagem\ copiar.jpg');
+  min-height: 100%;
+}
+
+.menu {
+  display: none;
+}
+
+.nav-open {
+  z-index: 3;
+  width: 250px;
+  font-weight: bold;
+  display: none;
+  right: 0;
+
+}
+
+.nav-btn {
+  cursor: pointer;
+}
+
+.text-header {
+  font-size: 32px;
+}
+
+.box-about {
+  max-width: 700px;
+}
+
+.img-about {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.clr1 {
+  color: #54c67a;
+  font-family: 'lemon', sans-serif;
+}
+
+.clr2 {
+  color: #031c28;
+  font-family: 'lemon', sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.w3-tag {
+  background-color: #54c67a;
+  color: black;
+  font-family: 'lemon', sans-serif;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+
+.text-small {
+  font-size: 15px;
+}
+
+.text-selo {
+  font-family: 'roma', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+
+.text-header {
+  font-family: 'lemon', sans-serif;
+}
+
+p {
+  text-align: justify;
+  font-family: 'century gothic', sans-serif;
+}
+
+.recic {
+  width: 300px;
+  text-align: center;
+  display: flex;
+}
