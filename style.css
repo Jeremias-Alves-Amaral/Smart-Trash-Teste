@@ -7,8 +7,8 @@ html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image:url('./assets/Reciclagem copiar.jpg');
-  min-height: 100%;
+  background-image: url('./assets/img-reciclavel.png');
+  min-height: 75%;
 }
 
 .menu {
